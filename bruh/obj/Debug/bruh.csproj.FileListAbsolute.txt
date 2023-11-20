@@ -1,0 +1,10 @@
+C:\Users\pcuser\source\repos\bruh\bruh\bin\Debug\bruh.exe.config
+C:\Users\pcuser\source\repos\bruh\bruh\bin\Debug\bruh.exe
+C:\Users\pcuser\source\repos\bruh\bruh\bin\Debug\bruh.pdb
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.csproj.AssemblyReference.cache
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.Form1.resources
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.Properties.Resources.resources
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.csproj.GenerateResource.cache
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.exe
+C:\Users\pcuser\source\repos\bruh\bruh\obj\Debug\bruh.pdb
