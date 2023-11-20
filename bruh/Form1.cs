@@ -96,5 +96,10 @@ namespace bruh
                 MessageBox.Show($"Error encountered, details {ex.Message}", "Error", MessageBoxButtons.OK);
             }
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
